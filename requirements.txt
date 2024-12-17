@@ -1,0 +1,10 @@
+streamlit
+langchain
+transformers
+sentence-transformers
+faiss-cpu          # For vector similarity search
+chromadb           # Optional: Alternative to FAISS
+pypdf2             # Extract text from PDFs
+python-dotenv      # For managing configs securely
+torch              # Required for Hugging Face models
+accelerate         # Speed up model inference
